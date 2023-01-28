@@ -15,7 +15,7 @@ Excited to work and contribute to Projects, simultaneously gaining new experienc
 ## Techstack I Use
 ![github techstack](https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png)
 
-
+## Working 24x7
 ![news24](https://www.lambdatest.com/resources/images/news24.gif)
 
 <!---
