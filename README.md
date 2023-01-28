@@ -1,11 +1,17 @@
-# Hello Everyone!
+# Hello Developer!
 
+## Hi👋 ,
+## I’m Kunal Mehra
 
-- 👋 Hi, I’m @KunalMehra075
-- 👀 I’m interested in Website Designing
-- 🌱 I’m currently learning Javascript and CSS
-- 💞️ I’m looking to collaborate on My Projects
-- 📫 How to reach me --my linked in Profile is https://www.linkedin.com/in/kunal-mehra-18744a217
+Analytical and detail-oriented aspiring Full Stack Developer. 
+Capable of writing production-ready code using various tech skills mentioned below.
+Quick Learner, passionate about coding who keeps exploring new tech fields, 
+Excited to work and contribute to Projects, simultaneously gaining new experiences.
+
+### 👀 I’m interested in Web Development and Designing
+### 🌱 I’m currently pursuing Masai Fullstack Web-development(Full-Time) Course
+### 💞️ I’m looking to collaborate on projects, contact m
+### 📫 How to reach me --my linked in Profile is www.linkedin.com/in/kunal-mehra-thelifeofcoder
 
 ### Techstack I Use
 ![github techstack](https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png)
