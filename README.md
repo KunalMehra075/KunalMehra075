@@ -1,7 +1,6 @@
 # Hello Developer!
 
-## Hi👋 ,
-## I’m Kunal Mehra
+## Hi👋, I’m Kunal Mehra
 
 Analytical and detail-oriented aspiring Full Stack Developer. 
 Capable of writing production-ready code using various tech skills mentioned below.
