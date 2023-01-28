@@ -10,7 +10,7 @@ Excited to work and contribute to Projects, simultaneously gaining new experienc
 - 📘 I’m interested in Web Development and Designing
 - 🌱 I’m currently pursuing Masai Fullstack Web-development(Full-Time) Course
 - 💝 I am excited to work on new Projects, with my current knowlenge and learn futher..
-- 📳 How to reach me -- My LinkedIn Profile is www.linkedin.com/in/kunal-mehra-thelifeofcoder <img src="https://user-images.githubusercontent.com/112753481/215295737-4262bf24-24c7-47da-8549-c9222abe2c69.svg" width="50" height="50">
+- 📳 How to reach me -- My LinkedIn Profile is <img src="https://user-images.githubusercontent.com/112753481/215295737-4262bf24-24c7-47da-8549-c9222abe2c69.svg" width="10" height="10">  www.linkedin.com/in/kunal-mehra-thelifeofcoder
 
 
 ## Techstack I Use
