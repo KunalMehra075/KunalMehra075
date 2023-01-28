@@ -17,5 +17,5 @@ Excited to work and contribute to Projects, simultaneously gaining new experienc
 
 ## Working 24x7
 ![](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif) 
-![](https://gifdb.com/images/thumbnail/confused-cat-eyes-following-movements-i7pzcvt2oetcj9hc.gif)
+![](https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif)
 ![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) 
