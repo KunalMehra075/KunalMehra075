@@ -16,7 +16,7 @@ Excited to work and contribute to Projects, simultaneously gaining new experienc
 ![github techstack](https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png)
 
 ## Working 24x7
-![](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif) 
-![](https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif)
-![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) 
 ![](https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif)
+![](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif) 
+![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) 
+![](https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif)
