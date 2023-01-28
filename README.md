@@ -14,6 +14,8 @@ Excited to work and contribute to Projects, simultaneously gaining new experienc
 
 ## Techstack I Use
 ![github techstack](https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png)
+###
+![news24](https://user-images.githubusercontent.com/112753481/215295877-38ab03f0-7175-4688-acf2-95c22cb2271e.gif)
 
 <!---
 KunalMehra075/KunalMehra075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
