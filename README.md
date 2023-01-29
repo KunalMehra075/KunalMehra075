@@ -6,10 +6,10 @@ Capable of writing production-ready code using various tech skills mentioned bel
 Quick Learner, passionate about coding who keeps exploring new tech fields, 
 Excited to work and contribute to new projects, simultaneously gaining new experiences.
 
-- 📘 I’m interested in Web Development and Designing.
-- 🌱 I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
+- :blue_book: I’m interested in Web Development and Designing.
+- :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
 - :sparkling_heart: I am excited to work on new Projects, with my current knowledge and learn new things..
-- 📳 How to reach me -- My LinkedIn Profile is <img src="https://user-images.githubusercontent.com/112753481/215295737-4262bf24-24c7-47da-8549-c9222abe2c69.svg" width="15" height="15">  www.linkedin.com/in/kunal-mehra-thelifeofcoder
+- :pushpin: How to reach me -- My LinkedIn Profile is <img src="https://user-images.githubusercontent.com/112753481/215295737-4262bf24-24c7-47da-8549-c9222abe2c69.svg" width="15" height="15">  www.linkedin.com/in/kunal-mehra-thelifeofcoder
 
 
 ## Techstack I Use
