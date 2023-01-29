@@ -15,7 +15,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ## Techstack I Use
 ![github techstack](https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png)
 
-## Github Stats
+## Github Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar)](https://github.com/KunalMehra075/github-profile-trophy)
 
 
