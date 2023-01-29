@@ -13,7 +13,10 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 
 ## Techstack I Use
-![github techstack](https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png)
+<p align="center" style="pointer-events:none">
+  <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tech Stack Custom Image"/>
+</p>
+
 
 ## Github Trophies 🏆
 <p align="center">
