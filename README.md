@@ -17,7 +17,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 ## Github Stats
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onedark)](https://github.com/KunalMehra075/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onedark)](https://github.com/KunalMehra075/github-profile-trophy)
 </p>
 
 ## Working 24x7 in this schedule.
