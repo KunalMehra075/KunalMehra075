@@ -1,4 +1,4 @@
-# Hello Developer! 👋
+# Hello World! 👋
 ## Hi, I’m Kunal Mehra
 
 Analytical and detail-oriented aspiring Full Stack Developer. 
