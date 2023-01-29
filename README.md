@@ -21,6 +21,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 </p>
 
 ## Working 24x7 in this schedule.
-![](https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif)
-![](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif) 
-![](https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif)
+<p align="center">
+  <img src="https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif" alt="Trophies Custom Image"/>
+  <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" alt="Trophies Custom Image"/>
+  <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
+</p>
