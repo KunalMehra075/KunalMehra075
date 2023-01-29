@@ -16,9 +16,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ![github techstack](https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png)
 
 ## Github Stats
-<p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onedark)](https://github.com/KunalMehra075/github-profile-trophy)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onedark)](https://github.com/KunalMehra075/github-profile-trophy)
+
 
 ## Working 24x7 in this schedule.
 ![](https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif)
