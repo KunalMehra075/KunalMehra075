@@ -82,5 +82,5 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 </p>
 
 <!-- snake animation -->
-![Snake animation](https://github.com/KunalMehra075/KunalMehra075/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
 
