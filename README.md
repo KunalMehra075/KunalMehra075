@@ -1,7 +1,7 @@
 # Hello Developer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## Hi, I’m Kunal Mehra      <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" /> 
+## Hi, I’m Kunal Mehra      
 
 Analytical and detail-oriented aspiring Full Stack Developer. 
 Capable of writing production-ready code using various tech skills mentioned below.
@@ -81,7 +81,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
 
 ---
-#### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
+#### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em><img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" /> 
 ---
 
 
