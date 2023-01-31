@@ -5,6 +5,11 @@ Capable of writing production-ready code using various tech skills mentioned bel
 Quick Learner, passionate about coding who keeps exploring new tech fields, 
 Excited to work and contribute to new projects, simultaneously gaining new experiences.
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20b.kunalmehra240304@gmail.com;I%20am%20ready%20for%20collaborations.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=16">
+</p>
+
 - :blue_book: I’m interested in Web Development and Designing.
 - :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
 - :sparkling_heart: I am excited to work on new Projects, with my current knowledge and learn new things,Contact Me Here ⏬ <br>
