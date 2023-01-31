@@ -1,4 +1,4 @@
-<label style="font-size:40px">Hello Developer</label> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <h1>Hello Developer</h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ## Hi, I’m Kunal Mehra      
