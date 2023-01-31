@@ -24,6 +24,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=dark&background=000000" alt="Trophies Custom Image"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=vision-friendly-dark" alt="Trophies Custom Image"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Trophies Custom Image"/>
 
 </p>
 
