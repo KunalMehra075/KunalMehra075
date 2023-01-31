@@ -9,7 +9,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 - :blue_book: I’m interested in Web Development and Designing.
 - :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
 - :sparkling_heart: I am excited to work on new Projects, with my current knowledge and learn new things..
-- :pushpin: How to reach me -- My LinkedIn Profile is <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="18" height="18"> <a href=" www.linkedin.com/in/kunal-mehra-thelifeofcoder">Kunal Mehra</a>
+- :pushpin: Contact Me Here -- My LinkedIn Profile is <img src="https://user-images.githubusercontent.com/112753481/215636785-ed841bcc-4509-4f2d-9e3a-b1aa8a308ac1.png" width="18" height="18"> <a href=" www.linkedin.com/in/kunal-mehra-thelifeofcoder">Kunal Mehra</a>
+
 
 
 ## 📌 Techstack/Skills  :-
