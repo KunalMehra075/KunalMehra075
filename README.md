@@ -49,19 +49,20 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ## 🏆 Github Stats 
 <p align="center">
 
- <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101" alt="Trophies Custom Image"/>   
+
 <!--    Github Stats  -->
-    <br>
+ 
 
   
   <img src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=react&amp;bg_color=#000;&line_height=270" alt="Stats"/>
 
 
 <!--  LAnguages  -->
-   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
+   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
   
+     <br>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101" alt="Trophies Custom Image"/>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
-  
   
   
   <img src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
