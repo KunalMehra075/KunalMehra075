@@ -13,11 +13,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <a href="https://discord.me/kunalmehra" target="_blank"><img src="https://img.shields.io/badge/KunalMehra%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a> <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" />  </a>
 
-
-  <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
 </p>
-
-
 
 ## 📌 Techstack/Skills  :-
 <p align="center">
