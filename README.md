@@ -15,15 +15,6 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ## Techstack/Skills  :-
 <p align="center" style="pointer-events:none">
   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="  https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
 </p>
 
 
@@ -32,7 +23,16 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 ## Tools I play with-
 <p align="center" style="pointer-events:none">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
 </p>
 
 
