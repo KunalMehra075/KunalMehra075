@@ -50,7 +50,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 
 
-## Github Stats 🏆
+## 🏆 Github Stats 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=dark&background=000000" alt="Trophies Custom Image"/>   
@@ -77,7 +77,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 
 
-## Working 24x7 in this schedule.
+## 🍏 Working 24x7 in this schedule.
 <p align="center">
   <img src="https://media.tenor.com/K_75XqYil5MAAAAM/cat-kitten.gif" alt="Trophies Custom Image"/>
   <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" alt="Trophies Custom Image"/>
