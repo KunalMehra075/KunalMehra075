@@ -51,3 +51,4 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" alt="Trophies Custom Image"/>
   <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
 </p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/KunalMehra075/KunalMehra075/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/KunalMehra075/KunalMehra075/raw/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" style="max-width: 100%;"></a>
