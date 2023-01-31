@@ -1,5 +1,6 @@
 # Hello Developer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="left" src="https://camo.githubusercontent.com/be1c004d4c1c353f3d615a59d0b6a50df0ff1d46426d09e6a8a841994baee775/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5735656f5a485070557839736170523065752f67697068792e676966" height="10px" alt="Git" data-canonical-src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 ## Hi, I’m Kunal Mehra
 
 Analytical and detail-oriented aspiring Full Stack Developer. 
