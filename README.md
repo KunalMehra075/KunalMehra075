@@ -25,10 +25,10 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 <p align="center" style="pointer-events:none">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="50" alt="Tech Stack Custom Image"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" width="50" alt="Tech Stack Custom Image"/>
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="50" alt="Tech Stack Custom Image"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="Tech Stack Custom Image"/>
