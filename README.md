@@ -12,11 +12,14 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 - :pushpin: How to reach me -- My LinkedIn Profile is <img src="https://user-images.githubusercontent.com/112753481/215295737-4262bf24-24c7-47da-8549-c9222abe2c69.svg" width="15" height="15">  www.linkedin.com/in/kunal-mehra-thelifeofcoder
 
 
-## Techstack I Use
+## Techstack/Skills :-
 <p align="center" style="pointer-events:none">
   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tech Stack Custom Image"/>
 </p>
-
+## Tools I play with-
+<p align="center" style="pointer-events:none">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Tech Stack Custom Image"/>
+</p>
 
 ## Github Stats 🏆
 <p align="center">
@@ -52,4 +55,3 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/KunalMehra075/KunalMehra075/455c88b6320e1396673e65ef44efa2613660d255/github-contribution-grid-snake.svg)
