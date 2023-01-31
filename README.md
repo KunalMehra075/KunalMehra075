@@ -79,9 +79,10 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 <!-- snake animation -->
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
-  <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" />   
-  <a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/KunalMehra075%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
-  <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/KunalMehra%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+ 
+  <a href="https://twitter.com/KunalMe57345061" target="_blank"><img src="https://img.shields.io/badge/KunalMehra075%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
+  <a href="https://discord.me/kunalmehra" target="_blank"><img src="https://img.shields.io/badge/KunalMehra%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a> <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" />  </a>
 
 
 ---
