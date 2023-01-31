@@ -53,9 +53,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 <!--    Github Stats  -->
  
 
-  
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101" alt="Trophies Custom Image"/>
   <img src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=react&amp;bg_color=#000;&line_height=270" alt="Stats"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101" alt="Trophies Custom Image"/>
 
 <!--  LAnguages  -->
    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
