@@ -57,17 +57,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
  <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=000000" alt="Trophies Custom Image"/>   
 <!--    Github Stats  -->
     <br>
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=react"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true" />
-</picture>
+<img alt="Kunal's Github Stats" src="https://camo.githubusercontent.com/c063d48b20894894a3d86cf34a5a0ce976a21e719d14653b1e541fe841a6a821/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5673616e6a61793032312673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;bg_color=0D1117" style="max-width: 100%;">
 <!--  LAnguages  -->
   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=vision-friendly-dark" alt="Trophies Custom Image"/>
