@@ -57,9 +57,9 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=react&amp;bg_color=#000;&line_height=270" alt="Stats"/>
 
 <!--  LAnguages  -->
-   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
-         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
+         <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+  <img height="100" src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
 
   <br>
 
