@@ -59,7 +59,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
     <br>
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react&amp;bg_color=black" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react&amp;bg_color=00000000" alt="Stats"/>
 
 
 <!--  LAnguages  -->
