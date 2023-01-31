@@ -81,3 +81,6 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
 </p>
 
+<!-- snake animation -->
+![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
+
