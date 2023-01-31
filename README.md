@@ -1,5 +1,4 @@
 # Hello Developer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
 
 ## Hi, I’m Kunal Mehra      <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" /> 
@@ -39,11 +38,6 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
       <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" width="50" alt="photoshop"/>
     <img src="https://user-images.githubusercontent.com/112753481/215633131-00986510-3fef-43c0-9ca5-7cafb661513e.png" width="50" alt="Postman"/>
       <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="50" alt="npm"/>
-
-
-
-
-
 </p>
 
 
@@ -81,6 +75,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" alt="Trophies Custom Image"/>
   <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
 </p>
+<!-- Divider -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
 <!-- snake animation -->
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
