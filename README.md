@@ -9,6 +9,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 - :blue_book: I’m interested in Web Development and Designing.
 - :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
 - :sparkling_heart: I am excited to work on new Projects, with my current knowledge and learn new things..
+- 📫 Contact me here :
 <a href="https://www.linkedin.com/in/kunal-mehra-thelifeofcoder/"><img src="https://img.shields.io/badge/KunalMehra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/KunalMe57345061" target="_blank"><img src="https://img.shields.io/badge/KunalMehra075%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
   <a href="https://discord.me/kunalmehra" target="_blank"><img src="https://img.shields.io/badge/KunalMehra%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
