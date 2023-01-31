@@ -22,7 +22,13 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
   <p align="center">
- 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=vision-friendly-dark" alt="Trophies Custom Image"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=tokyonight" alt="Trophies Custom Image"/>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=dark&background=000000" alt="Trophies Custom Image"/>
+    
+    
+<!--    Picture  -->
+    
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=dark"
