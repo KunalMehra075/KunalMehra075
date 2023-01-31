@@ -22,6 +22,10 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
 </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 ## Working 24x7 in this schedule.
 <p align="center">
