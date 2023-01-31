@@ -27,7 +27,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
    <img src="https://user-images.githubusercontent.com/112753481/215633014-37fa0e83-acf3-46cc-88fd-da75dbcfbcc1.png" width="50" alt="Github"/>
    <img src="https://user-images.githubusercontent.com/112753481/215633046-9b686f6d-6633-4972-9817-cdaf3622e2d9.png" width="50" alt="Netlify"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="BOOTSTRAP"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215633001-5be8ef9e-9c1c-404d-a750-3e42f68267eb.png" width="50" alt="Figma"/>
+   <img src="https://user-images.githubusercontent.com/112753481/215633001-5be8ef9e-9c1c-404d-a750-3e42f68267eb.png" width="55" alt="Figma"/>
       <img src="https://user-images.githubusercontent.com/112753481/215633053-7c8a6a09-1699-4b57-8278-69c323707b30.jpg" width="50" alt="AWS"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="50" alt="git"/>
     <img src="https://user-images.githubusercontent.com/112753481/215632928-83564962-99c4-4cfa-95d0-925b7fdc5b08.png" width="50" alt="jwt"/>
