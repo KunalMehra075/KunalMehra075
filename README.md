@@ -19,7 +19,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 <p align="center" style="pointer-events:none">
   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
 </p>
-
+<br>
 
 
 ## 📌 Tools I play with-
@@ -39,14 +39,14 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
     <img src="https://user-images.githubusercontent.com/112753481/215633131-00986510-3fef-43c0-9ca5-7cafb661513e.png" width="50" alt="Postman"/>
       <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="50" alt="npm"/>
 </p>
+<br>
 
 
 
 
 
 
-
-## 🏆 Github Stats 
+## 📊 Github Stats 
 <p align="center">
 
 
@@ -59,7 +59,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 <!--  LAnguages  -->
    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
          <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
 
   <br>
 
