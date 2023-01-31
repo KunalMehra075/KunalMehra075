@@ -54,7 +54,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ## 🏆 Github Stats 
 <p align="center">
 
- <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=000000" alt="Trophies Custom Image"/>   
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101" alt="Trophies Custom Image"/>   
 <!--    Github Stats  -->
     <br>
 
