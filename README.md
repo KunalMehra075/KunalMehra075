@@ -21,14 +21,11 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ## Github Trophies 🏆
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
-</p>
-<div id="header" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
+  
+</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
