@@ -58,7 +58,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 
 <!--  LAnguages  -->
-   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>
   
      <br>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101" alt="Trophies Custom Image"/>
