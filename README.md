@@ -85,7 +85,9 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 
 ---
-#### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
+ <p align="center">
+### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
+</p>
 ---
 
 <br>
