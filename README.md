@@ -59,7 +59,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
     <br>
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
