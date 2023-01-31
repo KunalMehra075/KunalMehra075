@@ -52,4 +52,4 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" alt="Trophies Custom Image"/>
 </p>
 
-![Snake animation](https://github.com/{{KunalMehra075}}/{{KunalMehra075}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KunalMehra075/KunalMehra075/blob/output/github-contribution-grid-snake.svg)
