@@ -24,12 +24,13 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 ## 📌 Tools I play with-
 <p align="center" style="pointer-events:none">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="50" alt="VSCODE"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215633014-37fa0e83-acf3-46cc-88fd-da75dbcfbcc1.png" width="50" alt="Github"/>
-   <img src="https://user-images.githubusercontent.com/112753481/215633046-9b686f6d-6633-4972-9817-cdaf3622e2d9.png" width="50" alt="Netlify"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" width="50" alt="BOOTSTRAP"/>
+   <img src="https://user-images.githubusercontent.com/112753481/215633046-9b686f6d-6633-4972-9817-cdaf3622e2d9.png" width="50" alt="Netlify"/>
+
    <img src="https://user-images.githubusercontent.com/112753481/215633001-5be8ef9e-9c1c-404d-a750-3e42f68267eb.png" width="55" alt="Figma"/>
       <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="50" alt="Http"/>
       <img src="https://user-images.githubusercontent.com/112753481/215633053-7c8a6a09-1699-4b57-8278-69c323707b30.jpg" width="50" alt="AWS"/>
+     <img src="https://user-images.githubusercontent.com/112753481/215635834-8b98cc06-de8f-489c-9ed6-39c82efd84c5.png" width="50" alt="Github"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="50" alt="git"/>
     <img src="https://user-images.githubusercontent.com/112753481/215632928-83564962-99c4-4cfa-95d0-925b7fdc5b08.png" width="50" alt="jwt"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="50" alt="npm"/>
@@ -38,7 +39,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
      <img src="https://user-images.githubusercontent.com/112753481/215633028-c7cbccdb-42ef-4568-bf45-b332f490863f.png" width="50" alt="Vercel"/>
       <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" width="50" alt="photoshop"/>
     <img src="https://user-images.githubusercontent.com/112753481/215633131-00986510-3fef-43c0-9ca5-7cafb661513e.png" width="50" alt="Postman"/>
-  
+
+
 
 
 </p>
