@@ -29,12 +29,12 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
       <img src="https://user-images.githubusercontent.com/112753481/215633053-7c8a6a09-1699-4b57-8278-69c323707b30.jpg" width="50" alt="AWS"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="50" alt="git"/>
     <img src="https://user-images.githubusercontent.com/112753481/215632928-83564962-99c4-4cfa-95d0-925b7fdc5b08.png" width="50" alt="jwt"/>
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="50" alt="npm"/>
        <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" width="50" alt="sass"/>
     <img src="https://user-images.githubusercontent.com/112753481/215634762-a5a4f148-c638-4d86-9507-9f73876c2756.jpeg" width="50" alt="tailwind"/>
      <img src="https://user-images.githubusercontent.com/112753481/215633028-c7cbccdb-42ef-4568-bf45-b332f490863f.png" width="50" alt="Vercel"/>
       <img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" width="50" alt="photoshop"/>
     <img src="https://user-images.githubusercontent.com/112753481/215633131-00986510-3fef-43c0-9ca5-7cafb661513e.png" width="50" alt="Postman"/>
+      <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="50" alt="npm"/>
       <img src="https://user-images.githubusercontent.com/112753481/215633001-5be8ef9e-9c1c-404d-a750-3e42f68267eb.png" width="55" alt="Figma"/>
 
 
