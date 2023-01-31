@@ -1,6 +1,8 @@
 # Hello Developer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
-## Hi, I’m Kunal Mehra      <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=#00e7ff&style=for-the-badge" alt="Kunal Mehra Profile views" /> 
+
+## Hi, I’m Kunal Mehra      <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" /> 
 
 Analytical and detail-oriented aspiring Full Stack Developer. 
 Capable of writing production-ready code using various tech skills mentioned below.
