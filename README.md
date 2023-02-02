@@ -68,6 +68,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 </a>
 </p>
 
+<!-- Divider -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
 ## 🍏 Working 24x7 in this schedule.
 <p align="center">
