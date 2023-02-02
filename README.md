@@ -54,8 +54,8 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
  <img
       src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
       alt="streak" width="60%"/>
-   <img width="30%" src="https://user-images.githubusercontent.com/112753481/216206775-eb6adf6c-355e-4a68-b723-9819e33e7d70.gif" alt="codergif"/>
 </a>
+   <img width="30%" src="https://user-images.githubusercontent.com/112753481/216206775-eb6adf6c-355e-4a68-b723-9819e33e7d70.gif" alt="codergif"/>
 </p>
 
 <!--Second  -->
