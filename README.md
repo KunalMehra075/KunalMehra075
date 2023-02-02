@@ -1,4 +1,5 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello Developer! I’m Kunal Mehra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">      
+ ![ezgif-1-a06e1bc8f2](https://user-images.githubusercontent.com/112753481/216214001-9b312860-6c5d-4b88-ad7c-16f4d0aee750.gif)
+
 
 Analytical and detail-oriented aspiring Full Stack Developer. 
 Capable of writing production-ready code using various tech skills mentioned below.
