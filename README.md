@@ -54,7 +54,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
  <img
       src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
       alt="streak" width="60%"/>
-   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="codergif"/>
+   <img width="30%" src="https://user-images.githubusercontent.com/112753481/216206775-eb6adf6c-355e-4a68-b723-9819e33e7d70.gif" alt="codergif"/>
 </a>
 </p>
 
@@ -69,7 +69,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 </p>
 
 <!-- Divider -->
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
 
 ## 🍏 Working 24x7 in this schedule.
