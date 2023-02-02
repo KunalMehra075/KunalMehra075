@@ -1,11 +1,6 @@
 ![ad65c8175abd44fe30121f7ce447adc4bf1f096e](https://user-images.githubusercontent.com/112753481/216214597-44fd92a9-2e7f-434a-a39a-558bd1dd88c1.gif)
 
-Analytical and detail-oriented aspiring Full Stack Developer. 
-Capable of writing production-ready code using various tech skills mentioned below.
-Quick Learner, passionate about coding who keeps exploring new tech fields, 
-Excited to work and contribute to new projects, simultaneously gaining new experiences.
-
-- :blue_book: I’m interested in Web Development and Designing.
+- :blue_book: Analytical and detail-oriented aspiring Full Stack Developer. 
 - :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
 - :sparkling_heart: I am excited to work on new Projects, with my current knowledge and learn new things,Contact Me Here ⏬ <br>
 <p align="center"><a href="https://www.linkedin.com/in/kunal-mehra-thelifeofcoder/"><img src="https://img.shields.io/badge/KunalMehra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
