@@ -11,14 +11,14 @@
 
 </p>
 
-## 📌 Techstack/Skills  :-
+# 📌 Techstack/Skills  :-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
 </p>
 <br>
 
 
-## 📌 Tools I play with-
+# 📌 Tools I play with-
 <p align="center" style="pointer-events:none">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="50" alt="VSCODE"/>
      <img src="https://user-images.githubusercontent.com/112753481/215633046-9b686f6d-6633-4972-9817-cdaf3622e2d9.png" width="50" alt="Netlify"/>
@@ -42,7 +42,9 @@
 
 
 
-## 📊 Github Stats 
+# 📊 Github Stats 
+<!-- Divider -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 <!-- First -->
 <p>
  <a href="https://github.com/KunalMehra075">
