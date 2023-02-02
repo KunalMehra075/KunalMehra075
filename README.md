@@ -62,7 +62,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 <br>
 
 <!--Second  -->
-  <br />
+
  <p>
     <a href="https://github.com/07-Mayankraj"><span>
       <img align="left"
