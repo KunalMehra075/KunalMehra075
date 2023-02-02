@@ -48,12 +48,15 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 
 ## 📊 Github Stats 
+<!--    Github Stats  -->
   <p>
     <a href="https://github.com/07-Mayankraj">
       <span>
-         <img align="left" 
-          src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101;&hide_border=true" 
-            alt="streak"  width="45%"/>
+<!--  streak-->
+        <img align="left" 
+          src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
+          alt="ovi" width="45%" />
+<!-- A+ -->
           <img align="right"
           src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
@@ -61,16 +64,9 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   </p>
 <p align="center">
 
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=react&amp;bg_color=#000;&line_height=270;&hide_border=true" alt="Stats"/>
 
-<!--    Github Stats  -->
- 
- <img align="left" 
-          src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-          alt="ovi" width="45%" />
- 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&theme=react&amp;bg_color=#000;&line_height=270;&hide_border=true" alt="Stats"/>
-
-<!--  LAnguages  -->
+<!--  Language  -->
    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMehra075&layout=compact&theme=react" alt="Trophies Custom Image"/>    
   <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
   <img height="150" src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
