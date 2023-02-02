@@ -62,12 +62,12 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
   <br />
  <p>
     <a href="https://github.com/07-Mayankraj"><span>
-        <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=07-Mayankraj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%" />
-          <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=07-Mayankraj&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+      <img align="left"
+          src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
+      <img align="right" 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          alt="ovi" width="45%" />
       </span></a>
   </p>
 <br />
