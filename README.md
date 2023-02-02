@@ -59,18 +59,17 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 </p>
 
 <!--Second  -->
-<p>
- <a href="https://github.com/KunalMehra075">
-   <img  height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Language" width="45%" />  
- <img 
-        src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-        alt="ovi" width="45%"  />
-</a>
+<p align="center">
+
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?    username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Language" width="45%" />  
+ <img src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+        alt="ovi" width="50%"  />
+
 </p>
 
 <!-- Divider -->
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-
+<br>
 
 ## 🍏 Working 24x7 in this schedule.
 
