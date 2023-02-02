@@ -42,7 +42,7 @@
 
 
 <!-- <h1 ">NO LINE</h1> -->
-<summary><h1 align="center" style="display: inline-block;">📌 Github Stats</h1></summary>
+<span><h1 align="center" style="display: inline-block;">📌 Github Stats</h1></span>
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 <!-- First -->
 <p>
