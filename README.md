@@ -52,7 +52,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
     <a href="https://github.com/07-Mayankraj">
       <span>
          <img align="left" 
-          src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101&hide_border=true" 
+          src="http://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=black-ice&background=#000101;&hide_border=true" 
             alt="streak"  width="45%"/>
           <img align="right"
           src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
