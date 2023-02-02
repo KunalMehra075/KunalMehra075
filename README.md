@@ -49,15 +49,14 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 ## 📊 Github Stats 
 <!--    Github Stats  -->
+
   <p>
     <a href="https://github.com/KunalMehra075">
-      <span>
-<!--  streak-->
+      <span><!--  streak-->
         <img align="left" 
           src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
           alt="ovi" width="45%" />
-<!-- codergif  -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  align="right"  height="170"  width="20%"/>
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="codergif"/>
       </span></a>
   </p>
 
