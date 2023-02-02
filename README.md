@@ -57,24 +57,18 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
           src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
           alt="ovi" width="45%" />
 <!-- codergif  -->
-  <img align="right"  height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  align="right"  height="170"  width="20%"/>
       </span></a>
   </p>
 
 <p align="center">
 <!--  Language  -->
 
-   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Trophies Custom Image"/>    
+   <img align="left"  height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Trophies Custom Image"/>    
 <!-- A+ -->
           <img align="right"
           src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
-  
-<!-- Trophi-->
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=KunalMehra075&theme=onestar&no-frame=true)](https://github.com/KunalMehra075/github-profile-trophy" alt="Trophies Custom Image"/>
-
-  <br>
-
 </p>
 
 
