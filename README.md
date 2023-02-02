@@ -48,29 +48,25 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 
 
 ## 📊 Github Stats 
-<!--    Github Stats  -->
-
-  <p>
-    <a href="https://github.com/KunalMehra075">
-      <span><!--  streak-->
-        <img align="left" 
-          src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-          alt="ovi" width="45%" />
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="codergif"/>
-      </span></a>
-  </p>
-
+<!-- First -->
 <p>
-<!--  Language  -->
-
-   <img align="left"  height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Trophies Custom Image"/>    
-<!-- A+ -->
-          <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%"  />
+ <a href="https://github.com/KunalMehra075">
+ <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      alt="streak" width="60%"/>
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="codergif"/>
+</a>
 </p>
 
-
+<!--Second  -->
+<p>
+ <a href="https://github.com/KunalMehra075">
+   <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Language" width="45%" />  
+ <img align="right"
+        src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+        alt="ovi" width="45%"  />
+</a>
+</p>
 
 
 ## 🍏 Working 24x7 in this schedule.
