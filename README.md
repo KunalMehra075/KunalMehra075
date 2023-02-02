@@ -60,7 +60,7 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
       </span></a>
   </p>
 
-<p align="center">
+<p>
 <!--  Language  -->
 
    <img align="left"  height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Trophies Custom Image"/>    
