@@ -57,6 +57,9 @@ Excited to work and contribute to new projects, simultaneously gaining new exper
 </a>
    <img width="28%" src="https://user-images.githubusercontent.com/112753481/216206775-eb6adf6c-355e-4a68-b723-9819e33e7d70.gif" alt="codergif"/>
 </p>
+<!-- Divider -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+<br>
 
 <!--Second  -->
   <br />
