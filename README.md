@@ -1,5 +1,4 @@
- ![ezgif-1-a06e1bc8f2](https://user-images.githubusercontent.com/112753481/216214001-9b312860-6c5d-4b88-ad7c-16f4d0aee750.gif)
-
+![ad65c8175abd44fe30121f7ce447adc4bf1f096e](https://user-images.githubusercontent.com/112753481/216214597-44fd92a9-2e7f-434a-a39a-558bd1dd88c1.gif)
 
 Analytical and detail-oriented aspiring Full Stack Developer. 
 Capable of writing production-ready code using various tech skills mentioned below.
