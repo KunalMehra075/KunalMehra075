@@ -11,7 +11,7 @@
 
 </p>
 
-# 📌 Techstack/Skills  :-
+# 📌 Techstack/Skills  :- 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
 </p>
