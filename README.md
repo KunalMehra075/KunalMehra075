@@ -102,7 +102,7 @@
 
 <!-- Snake -->
 <p align="center">
-    <img src="https://github.com/KunalMehra075/KunalMehra075/blob/output/github-contribution-grid-snake.gif" alt="snake" />
+    <img src="https://github.com/KunalMehra075/KunalMehra075/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p><br>
 
  <p align="center">
