@@ -54,7 +54,6 @@
 
    <img width="28%" src="https://user-images.githubusercontent.com/112753481/216208514-cfc0f69b-978f-4e78-b04e-5db9f1316eb2.gif" alt="codergif"/>
 </p>
-<!-- Divider -->
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 <br>
 
