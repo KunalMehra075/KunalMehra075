@@ -69,10 +69,10 @@
           alt="ovi" width="45%" />
       </span></a>
   </p>
-<br />
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.svg" width="100%" height="10px" alt="Git" />
 <br>
 
+<br>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.svg" width="100%" height="10px" alt="Git" />
   
   <p align="center">
     <a href="https://github.com/KunalMehra075"><span>
