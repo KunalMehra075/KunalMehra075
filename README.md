@@ -72,9 +72,10 @@
 <br>
 
 <br>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.svg" width="100%" height="10px" alt="Git" />
+
   
   <p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.svg" width="100%" height="10px" alt="Git" />
     <a href="https://github.com/KunalMehra075"><span>
         <img align="center"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalMehra075&theme=github_dark" width="100%" />
