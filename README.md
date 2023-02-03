@@ -78,7 +78,7 @@
 
   
   <p align="center">
-    <a href="https://github.com/07-Mayankraj"><span>
+    <a href="https://github.com/KunalMehra075"><span>
         <img align="center"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalMehra075&theme=github_dark" width="100%" />
       </span></a>
@@ -100,8 +100,10 @@
 <!-- Divider -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
-<!-- snake animation -->
-![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake -->
+<p align="center">
+    <img src="https://github.com/KunalMehra075/KunalMehra075/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
+</p><br>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20me%20on%20Github%20for%20my%20future%20projects!;Connect%20with%20me%20on%20LinkedIn-%20Kunal_Mehra.;%20My%20mail%20is%20kunalmehra240304@gmail.com;I%20am%20ready%20for%20collaborations.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=16">
 </p>
