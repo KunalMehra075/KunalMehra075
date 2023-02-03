@@ -70,8 +70,6 @@
       </span></a>
   </p>
 <br />
-
-<!-- Divider -->
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.svg" width="100%" height="10px" alt="Git" />
 <br>
 
