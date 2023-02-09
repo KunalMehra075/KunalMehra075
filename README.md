@@ -2,7 +2,7 @@
 
 - :blue_book: Analytical and detail-oriented aspiring Full Stack Developer. 
 - :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
-- :sparkling_heart: I am excited to work on new Projects, with my current knowledge and learn new things.  Contact Me Here ⏬ <br>
+- :sparkling_heart: Checkout my Portfolio : <a href="https://kunalmehra075.github.io/">KunalMehra075.github.io</a>  .  Contact Me Here ⏬ <br>
 <p align="center"><a href="https://www.linkedin.com/in/kunal-mehra-thelifeofcoder/"><img src="https://img.shields.io/badge/KunalMehra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/KunalMe57345061" target="_blank"><img src="https://img.shields.io/badge/KunalMehra075%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
       <a href="https://www.quora.com/profile/Kunal-Mehra-160"> <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />  </a>
@@ -60,7 +60,7 @@
 <!--Second  -->
 
  <p>
-    <a href="https://github.com/07-Mayankraj"><span>
+    <a href="https://github.com/KunalMehra075"><span>
       <img align="left"
           src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
