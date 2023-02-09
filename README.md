@@ -6,7 +6,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/kunal-mehra-thelifeofcoder/"><img src="https://img.shields.io/badge/KunalMehra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/KunalMe57345061" target="_blank"><img src="https://img.shields.io/badge/KunalMehra075%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
       <a href="https://www.quora.com/profile/Kunal-Mehra-160"> <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />  </a>
-  <a href="https://discord.me/kunalmehra" target="_blank"><img src="https://img.shields.io/badge/KunalMehra%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/Eren-Bunny-1634" target="_blank"><img src="https://img.shields.io/badge/KunalMehra%20-%237289DA.svg?&style=for-the-badge&logo=reddit&logoColor=white"/></a>
     <a> <img src="https://komarev.com/ghpvc/?username=KunalMehra075&label=Profile%20viewers:&color=blue&style=for-the-badge" alt="Kunal Mehra Profile views" />  </a>
 
 </p>
