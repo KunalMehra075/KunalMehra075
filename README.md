@@ -63,7 +63,7 @@
     <a href="https://github.com/KunalMehra075"><span>
       <img align="left"
           src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%"  />
+          alt="ovi" width="47%"  />
       <img align="right" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true"
           alt="ovi" width="45%" />
