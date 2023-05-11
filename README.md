@@ -1,4 +1,4 @@
-![Welcome](https://github.com/KunalMehra075/KunalMehra075/assets/112753481/db26e34b-d6d5-4a54-8447-8e5282d07a53)
+![GithubBannerX](https://github.com/KunalMehra075/KunalMehra075/assets/112753481/69bf1530-36cb-49cd-9084-ce7730d82210)
 
 - :blue_book: Analytical and detail-oriented aspiring Full Stack Developer. 
 - :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
@@ -11,11 +11,11 @@
 
 </p>
 
-# 📌 Techstack/Skills  :- 
+<!-- # 📌 Techstack/Skills  :- 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
 </p>
-<br>
+<br> -->
 
 
 # 📌 Tools I play with-
