@@ -1,4 +1,4 @@
-![ad65c8175abd44fe30121f7ce447adc4bf1f096e](https://user-images.githubusercontent.com/112753481/216214597-44fd92a9-2e7f-434a-a39a-558bd1dd88c1.gif)
+![Welcome](https://github.com/KunalMehra075/KunalMehra075/assets/112753481/db26e34b-d6d5-4a54-8447-8e5282d07a53)
 
 - :blue_book: Analytical and detail-oriented aspiring Full Stack Developer. 
 - :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
