@@ -1,8 +1,5 @@
-![GithubBannerX](https://github.com/KunalMehra075/KunalMehra075/assets/112753481/69bf1530-36cb-49cd-9084-ce7730d82210)
-
-- :blue_book: Analytical and detail-oriented aspiring Full Stack Developer. 
-- :seedling: I’m currently pursuing Masai Fullstack Web-development Course (Full-Time). 
-- :sparkling_heart: Checkout my Portfolio : <a href="https://kunalmehra075.github.io/">KunalMehra075.github.io</a>  .  Contact Me Here ⏬ <br>
+A Full Stack Developer. 
+- :sparkling_heart: Checkout my Portfolio : <a href="https://kunalmehra075.github.io/">KunalMehra075.github.io</a>  
 <p align="center"><a href="https://www.linkedin.com/in/kunal-mehra-thelifeofcoder/"><img src="https://img.shields.io/badge/KunalMehra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/KunalMe57345061" target="_blank"><img src="https://img.shields.io/badge/KunalMehra075%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
       <a href="https://www.quora.com/profile/Kunal-Mehra-160"> <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />  </a>
