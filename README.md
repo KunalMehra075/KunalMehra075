@@ -8,46 +8,7 @@ A Full Stack Developer.
 
 </p>
 
-<!-- # 📌 Techstack/Skills  :- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/112753481/215295303-b3a01994-aae3-403f-aedf-062a007f69cc.png" alt="Tools Custom Image"/>
-</p>
-<br> -->
 
-
-
-# 📌 Github Stats
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-<!-- First -->
-<p>
- <a href="https://github.com/KunalMehra075">
- <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=KunalMehra075&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      alt="streak" width="70%"/>
-</a>
-
-   <img width="28%" src="https://user-images.githubusercontent.com/112753481/216208514-cfc0f69b-978f-4e78-b04e-5db9f1316eb2.gif" alt="codergif"/>
-</p>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-<br>
-
-<!--Second  -->
-
- <p>
-    <a href="https://github.com/KunalMehra075"><span>
-      <img align="left"
-          src="https://github-readme-stats.vercel.app/api?username=KunalMehra075&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-          alt="ovi" width="47%"  />
-      <img align="right" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalMehra075&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true"
-          alt="ovi" width="45%" />
-      </span></a>
-  </p>
-<br>
-
-<br>
-
-  
   <p align="center">
     <a href="https://github.com/KunalMehra075"><span>
         <img align="center"
@@ -71,10 +32,6 @@ A Full Stack Developer.
 <!-- Divider -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
-<!-- Snake -->
-<p align="center">
-    <img src="https://github.com/KunalMehra075/KunalMehra075/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p><br>
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20me%20on%20Github%20for%20my%20future%20projects!;Connect%20with%20me%20on%20LinkedIn-%20Kunal_Mehra.;%20My%20mail%20is%20kunalmehra240304@gmail.com;I%20am%20ready%20for%20collaborations.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=16">
