@@ -19,8 +19,8 @@ Please Checkout my Portfolio : <a href="https://kunalmehra075.github.io/">KunalM
   </p>
   
   <!-- Divider -->
+<!--
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-<br>
 
 <!--
 # 🍏 Working 24x7 in this schedule.
@@ -45,5 +45,6 @@ Please Checkout my Portfolio : <a href="https://kunalmehra075.github.io/">KunalM
 ### <p align="center">
  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about web development or design, check out some of my work on Github!</b> :)</em>
 </p>
--->
+
 <br>
+-->
